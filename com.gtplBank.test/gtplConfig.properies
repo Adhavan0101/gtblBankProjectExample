@@ -1,0 +1,14 @@
+userID=mngr460822
+password=yhedybe
+url=https://demo.guru99.com/V1/index.php
+browser=chrome
+DriverLocation=E:\\Adhavan\\Softwares\\Chrome Driver\\chromedriver.exe
+uiName=Gtbl Bank
+CustomerName=SuperStar
+DateOfBirth=12-12-2012
+address=7G,Rainbow colony
+city=Madras
+state=TamilNadu
+pin-641602
+TelephoneNumber=9876543210
+email=superstar1212@gmail.com
